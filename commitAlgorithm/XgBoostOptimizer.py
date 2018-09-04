@@ -5,7 +5,7 @@
 
 
 #@Team: 生男孩48
-#@Author: 李猛
+#@Author: tenk
 from sklearn.model_selection import RandomizedSearchCV
 import xgboost as xgb
 from sklearn.metrics import f1_score
